@@ -2,7 +2,7 @@
 var price = 21;
 var age = 23;
 var temperature = 37;
-// duble ("")//string variable
+// double ("")//string variable
 var name = 'Rima Akter';
 var address = "mohakhali iph mosque";
 // boolean variable
