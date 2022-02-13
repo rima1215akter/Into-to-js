@@ -13,7 +13,7 @@ friendsAge.pop();
 console.log(friendsAge);
 
 // add and remove items for beginning
-friendsAge.unshift();
-console.log(friendsAge);
 friendsAge.shift();
+console.log(friendsAge);
+friendsAge.unshift();
 console.log(friendsAge);
