@@ -1,9 +1,13 @@
+// numerical
 var tShirtPrice = 200;
 console.log(typeof tShirtPrice);
+// string
 var tShirtPrice2 = '200';
 console.log(typeof tShirtPrice2);
+// boolean
 var isRaining = true;
 console.log(typeof isRaining);
+// undefine
 var isTaining;
 console.log(typeof isTaining);
 
