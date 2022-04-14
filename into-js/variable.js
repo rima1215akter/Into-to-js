@@ -1,5 +1,5 @@
 // numeric variable
-var price = 21;
+var watchPrice = 210;
 var age = 23;
 var temperature = 37;
 var price2 = 55;
