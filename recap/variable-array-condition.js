@@ -4,7 +4,7 @@ var waterQuantity = 1;
 var isFull = false;
 
 // array
-var items = ['bottle', 'mug', 'glass', 'paper'];
+var items = ['bottle', 'mug', 'glass', 'paper','pencil'];
 items.indexOf('logens');
 items.push('pen');
 items.push('book');
