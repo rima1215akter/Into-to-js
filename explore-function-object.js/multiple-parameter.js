@@ -38,3 +38,14 @@ var firstNumber = 4;
 var secondNumner = 6;
 var result = divisionTwoNumbers(secondNumner, firstNumber);
 console.log(result);
+
+function subtractionTwoNumbers(number1, number2){
+    console.log(number1, number2);
+    var total = number2 - number1;
+    return total;
+
+}
+var firstNumber = 4;
+var secondNumner = 6;
+var result = subtractionTwoNumbers(secondNumner, firstNumber);
+console.log(result);
